@@ -2,7 +2,7 @@
 
 Инициализирайте масива със следните числа: -1, 10, 4.5, 15, 3.278 */
 
-public class Exercise_03_ArraySum {
+public class ArraySum {
     public static void main(String[] args) {
         double[] arr = {-1, 10, 4.5, 15, 3.278};
         double counter = 0;
